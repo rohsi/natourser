@@ -29,7 +29,8 @@ body{
 .centeredofapage{
     position: absolute;
     top: 40%;
-    left:50%;
+    left:40%;
+    text-align: center;
 }
 .te{
     font-size: 4.5rem;
@@ -38,6 +39,15 @@ body{
 }
 .re{
     background-color: deepskyblue;
-    border-radius: 30%;
-    padding: 1.5rem;
+    border-radius: 10rem;
+    padding: 1.5rem 4rem;
+
+}
+.text{
+    display: flex;
+    justify-content: center;
+}
+.t{
+    display: flex;
+    justify-content: center;
 }
