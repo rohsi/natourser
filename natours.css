@@ -50,4 +50,19 @@ body{
 .t{
     display: flex;
     justify-content: center;
+
+
+}
+.qq{
+    width: 50%;
+    padding-left: 6rem;
+}
+.ewr{
+    width: 50%;
+    padding-left: 7rem;
+
+
+}
+.centeralign{
+    
 }
