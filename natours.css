@@ -61,8 +61,22 @@ body{
     width: 50%;
     padding-left: 7rem;
 
+    position: relative;
 
 }
-.centeralign{
-    
+
+.s{
+    position: absolute;
+    top: 4rem;
+    left: 14rem;
+}
+.sd{
+    position: absolute;
+    top: 10rem;
+    left: 15%;
+}
+.sda{
+    position: absolute;
+    left: 15px;
+    top: 2rem;
 }
