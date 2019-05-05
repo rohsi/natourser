@@ -28,19 +28,24 @@ body{
 }
 .centeredofapage{
     position: absolute;
-    top: 40%;
-    left:40%;
-    text-align: center;
+    top: 35%;
+    left:35%;
+
+
+
 }
 .te{
     font-size: 4.5rem;
     color: white;
     margin-bottom: 3.5rem;
+
+
 }
 .re{
     background-color: deepskyblue;
     border-radius: 10rem;
     padding: 1.5rem 4rem;
+    margin-left: 8rem;
 
 }
 .text{
@@ -124,4 +129,50 @@ body{
     color: white;
     padding: 2.5rem;
 
+}
+
+
+.fourthpage{
+    background-color: #f7f7f7;
+    height: 90vh;
+    display: flex;
+    position: relative;
+}
+.screen{
+    height: 10rem;
+
+}
+.astute{
+    position: absolute;
+    top:10rem;
+    left: 6rem;
+    font-size: 3rem;
+
+}
+.print {
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+}
+.er{
+    width: 15rem;
+    margin: 0 auto;
+}
+.newfourth,.newfourt,.newfour{
+    background-color:white;
+    height: 30rem;
+    width: 25%;
+    margin-top: 5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+
+}
+.newfourth .screen{
+    width: 100%;
+}
+.newfour .screen{
+    width: 100%;
+}
+.newfourt .screen{
+    width: 100%;
 }
