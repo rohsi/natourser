@@ -213,35 +213,23 @@ body {
 
 .fifthpage {
     position: relative;
+    display: flex;
 
 
 
 
 }
 
-.starcampaigner {
+
+.starcampaigner{
     text-align: center;
-    padding: 4rem;
+    padding: 6rem;
 }
-
-.best {
+.mary {
     background-color: cornsilk;
     height: 30%;
     width: 60%;
     margin: 0 auto;
-display: flex;
-    padding: 6rem;
-}
 
-.ss {
-
-    text-align: left;
-
-    justify-content: left;
-}
-
-.line {
-
-    justify-content: right;
 
 }
