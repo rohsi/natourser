@@ -1,9 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: inherit;
 }
-body{
+
+body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     line-height: 1.7;
@@ -11,44 +12,47 @@ body{
 
 }
 
-.image{
+.image {
     height: 95vh;
     width: 100%;
 }
-.onepage{
+
+.onepage {
     position: relative;
 
 }
-.logo1{
+
+.logo1 {
     position: absolute;
-    top:4rem;
-    left:4rem;
-    height:3.5rem;
+    top: 4rem;
+    left: 4rem;
+    height: 3.5rem;
 
 }
-.centeredofapage{
+
+.centeredofapage {
     position: absolute;
     top: 35%;
-    left:35%;
-
-
+    left: 35%;
 
 }
-.te{
+
+.te {
     font-size: 4.5rem;
     color: white;
     margin-bottom: 3.5rem;
 
-
 }
-.re{
+
+.re {
     background-color: deepskyblue;
     border-radius: 10rem;
     padding: 1.5rem 4rem;
     margin-left: 8rem;
 
 }
-.text{
+
+.text {
     display: flex;
     justify-content: center;
     margin-top: 5rem;
@@ -56,111 +60,122 @@ body{
     font-size: 2rem;
     padding: 2rem;
 }
-.t{
+
+.t {
     display: flex;
     justify-content: center;
     padding: 2rem;
     margin: 3rem;
 
-
 }
-.qq{
+
+.qq {
     width: 30%;
     margin-left: 10rem;
 
 }
-.ewr{
+
+.ewr {
     width: 40%;
     margin-left: 5rem;
     padding: 2rem;
     position: relative;
 
-
 }
-.secondpage{
+
+.secondpage {
     margin-bottom: 4rem;
 }
 
-.s{
+.s {
     position: absolute;
     top: 4rem;
     left: 14rem;
 }
-.sd{
+
+.sd {
     position: absolute;
     top: 10rem;
     left: 15%;
 }
-.sda{
+
+.sda {
     position: absolute;
     left: 15px;
     top: 2rem;
 }
-.secondpage{
+
+.secondpage {
     height: 95vh;
 }
-.ad{
+
+.ad {
     margin-bottom: 1rem;
 }
-.ii{
+
+.ii {
     margin-bottom: 2rem;
 }
-.thirdpage{
+
+.thirdpage {
     background-color: green;
     height: 90vh;
     display: flex;
     justify-content: space-between;
 }
-.health,.healthier,.healthiest,.healthy{
 
-
-
+.health, .healthier, .healthiest, .healthy {
 
 }
-.a,.as,.z,.y{
+
+.a, .as, .z, .y {
     margin-top: 40%;
-    box-shadow: 0 1.5rem 4rem rgba(0,0,0,0.15);
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.15);
     margin-left: 3rem;
     margin-right: 3rem;
 
     height: 30%;
     text-align: center;
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255, 255, 255, 0.8);
     color: white;
     padding: 2.5rem;
 
 }
 
-
-.fourthpage{
+.fourthpage {
     background-color: #f7f7f7;
     height: 90vh;
     display: flex;
     position: relative;
     justify-content: space-between;
 }
-.screen{
+
+.screen {
     height: 10rem;
 
 }
-.astute{
+
+.astute {
     position: absolute;
-    top:10rem;
+    top: 10rem;
     left: 6rem;
     font-size: 3rem;
 
 }
+
 .print {
     color: red;
     font-size: 2rem;
     text-align: center;
 }
-.er{
+
+.er {
     width: 15rem;
     margin: 0 auto;
 }
-.newfourth,.newfourt,.newfour{
-    background-color:white;
+
+.newfourth, .newfourt, .newfour {
+    background-color: white;
     height: 30rem;
 
     width: 25%;
@@ -169,18 +184,64 @@ body{
     margin-right: 3rem;
 
 }
-.newfourth .screen{
-    width: 100%;
-}
-.newfour .screen{
-    width: 100%;
-}
-.newfourt .screen{
+
+.newfourth .screen {
     width: 100%;
 }
 
+.newfour .screen {
+    width: 100%;
+}
+
+.newfourt .screen {
+    width: 100%;
+}
+
+.wrapper {
+    opacity: .15;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.w {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.fifthpage {
+    position: relative;
 
 
 
 
+}
 
+.starcampaigner {
+    text-align: center;
+    padding: 4rem;
+}
+
+.best {
+    background-color: cornsilk;
+    height: 30%;
+    width: 60%;
+    margin: 0 auto;
+display: flex;
+    padding: 6rem;
+}
+
+.ss {
+
+    text-align: left;
+
+    justify-content: left;
+}
+
+.line {
+
+    justify-content: right;
+
+}
