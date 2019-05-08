@@ -219,7 +219,7 @@ body {
 .starcampaigner {
     text-align: center;
     padding: 6rem;
-    
+
 }
 
 .mary {
@@ -232,17 +232,14 @@ body {
 
 .tuna {
     border-radius: 50%;
-    margin-top: 5rem;
-    position: absolute;
-    top: 35%;
-    left:20%;
+    margin-top: 3rem;
+    float: left;
+    clear: left;
 
 
-}
-
-.suna {
 
 }
+
 
 .qwww {
     margin-top: 5rem;
