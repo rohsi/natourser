@@ -213,23 +213,38 @@ body {
 
 .fifthpage {
     position: relative;
-    display: flex;
-
-
-
 
 }
 
-
-.starcampaigner{
+.starcampaigner {
     text-align: center;
     padding: 6rem;
+    
 }
+
 .mary {
     background-color: cornsilk;
     height: 30%;
     width: 60%;
     margin: 0 auto;
 
+}
+
+.tuna {
+    border-radius: 50%;
+    margin-top: 5rem;
+    position: absolute;
+    top: 35%;
+    left:20%;
+
+
+}
+
+.suna {
+
+}
+
+.qwww {
+    margin-top: 5rem;
 
 }
