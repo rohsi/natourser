@@ -222,26 +222,42 @@ body {
 
 }
 
-.mary {
+/*.mary {*/
+    /*background-color: cornsilk;*/
+    /*height: 30%;*/
+    /*!*width: 60%;*!*/
+    /*margin: 0 auto;*/
+
+/*}*/
+
+.boxdimensions{
     background-color: cornsilk;
-    height: 30%;
+    height: 250px;
     width: 60%;
     margin: 0 auto;
 
 }
-
 .tuna {
     border-radius: 50%;
-    margin-top: 3rem;
-    float: left;
-    clear: left;
-
-
-
+    padding:5px;
 }
 
 
 .qwww {
-    margin-top: 5rem;
+    margin-top: 5px;
+
+}
+
+.header {
+    padding-top:20px;
+    text-align: left;
+}
+
+.imagebox {
+    shape-outside: circle(50% at 50% 50%);
+    float: left;
+    margin-top: 3rem;
+    padding-left:10px;
+    padding-right: 10px;
 
 }
