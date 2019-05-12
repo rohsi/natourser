@@ -232,16 +232,24 @@ body {
 .tuna {
     border-radius: 50%;
     margin-top: 3rem;
-    float: left;
-    clear: left;
+  float: left;
+
 
 
 }
 .header{
     margin-bottom: 4px;
+
 }
 
 .qwww {
     margin-top: 5rem;
 
+}
+.textbox{
+
+}
+.imger{
+    margin-left: 50px;
+    margin-right:50px;
 }
