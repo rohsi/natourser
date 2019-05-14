@@ -309,3 +309,59 @@ body {
 
 
 
+.footer{
+    background-color: black;
+    height: 40%;
+
+}
+.imageslider{
+    display: flex;
+    justify-content: center;
+
+}
+.fot{
+    height:119px;
+    width: 150px;
+    margin-top: 7%;
+
+
+}
+.one{
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+
+}
+.footer_link{
+    text-decoration: none;
+    color: #f7f7f7;
+    margin-right: 2.5rem;
+    margin-left: 0rem;
+
+
+}
+.one ul{
+    list-style-type: none;
+
+}
+.oneseparator{
+    margin-top: 5%;
+    border-top: 1px solid #777;
+    width: 30%;
+
+    padding-top: 2rem;
+}
+
+.abcdss{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+
+.twoseparator{
+    border-top: 1px solid #777777;
+   margin-left: 39%;
+    margin-top: 5%;
+    color: white;
+    padding-top: 2rem;
+}
