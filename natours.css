@@ -232,6 +232,7 @@ body {
 }
 
 .tuna {
+    shape-outside: circle(50% at 50% 50%);
     border-radius: 50%;
    margin-top: 1.5rem;
   float: left;
@@ -255,4 +256,16 @@ body {
 .imger{
     margin-left: 50px;
     margin-right:50px;
+}
+
+.sixthpage{
+    background-color: green;
+    height: 100vh;
+    margin-top: 12.5%;
+}
+
+
+.divider{
+    background-color: #770f70;
+    margin: 0 auto;
 }
