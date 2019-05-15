@@ -336,7 +336,7 @@ body {
     text-decoration: none;
     color: #f7f7f7;
     margin-right: 2.5rem;
-    margin-left: 0rem;
+    margin-left: 4rem;
 
 
 }
@@ -364,4 +364,7 @@ body {
     margin-top: 5%;
     color: white;
     padding-top: 2rem;
+}
+.rohit{
+    margin-right: 4rem;
 }
