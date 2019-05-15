@@ -331,6 +331,7 @@ body {
     justify-content: left;
     list-style-type: none;
 
+
 }
 .footer_link{
     text-decoration: none;
@@ -339,32 +340,43 @@ body {
     margin-left: 4rem;
 
 
+
 }
 .one ul{
     list-style-type: none;
 
 }
 .oneseparator{
+
+    border-top: 1px solid #777777;
+
     margin-top: 5%;
-    border-top: 1px solid #777;
     width: 30%;
 
     padding-top: 2rem;
+
 }
 
 .abcdss{
     display: flex;
     justify-content: space-between;
     margin-bottom: 1.5rem;
+
+    padding-top: 2rem;
+
 }
 
 .twoseparator{
-    border-top: 1px solid #777777;
+
    margin-left: 39%;
     margin-top: 5%;
     color: white;
-    padding-top: 2rem;
+
 }
 .rohit{
     margin-right: 4rem;
+    border-top: 1px solid #777777;
+    padding-top: 2rem;
 }
+
+
