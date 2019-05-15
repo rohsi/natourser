@@ -311,72 +311,52 @@ body {
 
 .footer{
     background-color: black;
-    height: 40%;
-
+    height: 40vh;
+    padding: 2rem;
 }
-.imageslider{
-    display: flex;
-    justify-content: center;
-
-}
-.fot{
+.photviewer{
     height:119px;
     width: 150px;
-    margin-top: 7%;
-
 
 }
-.one{
-    display: flex;
-    justify-content: left;
-    list-style-type: none;
-
+.footer__logo{
+    text-align: center;
+    margin-bottom: 2rem;
 
 }
-.footer_link{
-    text-decoration: none;
+.footer__navigation {
+    border-top: 1px solid #777;
+    padding-top: 2rem;
+    display: inline-block;
+
+}
+.footer__list {
+    list-style: none;
+}
+.footer__link{
     color: #f7f7f7;
-    margin-right: 2.5rem;
-    margin-left: 4rem;
-
-
-
+    text-decoration: none;
+    text-transform: uppercase;
+    float: left;
 }
-.one ul{
-    list-style-type: none;
-
-}
-.oneseparator{
-
-    border-top: 1px solid #777777;
-
-    margin-top: 5%;
-    width: 30%;
-
+.footer__copyright {
+    border-top: 1px solid #777;
     padding-top: 2rem;
-
+    width: 50%;
+    float: right;
 }
 
-.abcdss{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 1.5rem;
-
-    padding-top: 2rem;
-
+.row .col-1-of-2 {
+    width: calc((100% - 6rem) / 2);
 }
 
-.twoseparator{
-
-   margin-left: 39%;
-    margin-top: 5%;
-    color: white;
-
-}
-.rohit{
-    margin-right: 4rem;
-    border-top: 1px solid #777777;
-    padding-top: 2rem;
+.row [class^="col-"] {
+    float: left;
 }
 
-
+.footer__item {
+    display: inline-block;
+}
+.footer__item:not(:last-child) {
+     margin-right: 1.5rem;
+ }
