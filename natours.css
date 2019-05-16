@@ -343,31 +343,3 @@ body {
 
 }
 
-.footer__link {
-    color: #f7f7f7;
-    text-decoration: none;
-    margin-left: 2rem;
-
-
-}
-
-
-.sumo{
-    margin-left: 2rem;
-    width: 28%;
-
-
-
-}
-
-.foo{
-    display: flex;
-    justify-content: right;
-    color: white;
-    padding-top: 2rem;
-    width: 40%;
-    float: right;
-    margin-top:-3.6rem;
-    border-top: 1px solid white;
-
-}
