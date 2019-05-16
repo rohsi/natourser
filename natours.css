@@ -337,6 +337,8 @@ body {
     list-style-type: none;
     display: flex;
     justify-content: left;
+    margin-top: 2rem;
+
 
 
 }
@@ -346,14 +348,26 @@ body {
     text-decoration: none;
     margin-left: 2rem;
 
+
 }
 
 
 .sumo{
     margin-left: 2rem;
+    width: 28%;
+
+
+
 }
-.raavan{
+
+.foo{
     display: flex;
     justify-content: right;
+    color: white;
+    padding-top: 2rem;
+    width: 50%;
+    float: right;
+    margin-top:-3.6rem;
+    border-top: 1px solid white;
 
 }
