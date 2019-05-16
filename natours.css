@@ -316,7 +316,6 @@ body {
     height: 40vh;
     padding: 2rem;
 
-
 }
 
 .photviewer {
@@ -339,12 +338,34 @@ body {
     justify-content: left;
     margin-top: 2rem;
 
-
-
 }
 
-.roma{
-    display:flex;
+.roma {
+    display: flex;
     justify-content: space-evenly;
 }
 
+.aw {
+    list-style-type: none;
+    margin-left: 1rem;
+
+}
+
+.ss {
+
+    display: flex;
+    justify-content: left;
+
+}
+
+.qqwe {
+    margin-left: 70%;
+    border-top: 1px solid white;
+    padding: 2rem;
+}
+
+.aram {
+    border-top: 1px solid white;
+    padding: 2rem;
+    
+}
