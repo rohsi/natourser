@@ -15,11 +15,12 @@ body {
 .image {
     height: 95vh;
     width: 100%;
+
 }
 
 .onepage {
     position: relative;
-
+    background-image: linear-gradient(to bottom, rgb(190, 17, 191) 0%, rgb(161, 184, 30) 100%),url("img/logo-white.png");
 }
 
 .logo1 {
@@ -347,7 +348,7 @@ body {
 
 .aw {
     list-style-type: none;
-    margin-left: 1rem;
+
 
 }
 
@@ -361,11 +362,14 @@ body {
 .qqwe {
     margin-left: 70%;
     border-top: 1px solid white;
-    padding: 2rem;
+    padding-top: 2rem;
 }
 
 .aram {
     border-top: 1px solid white;
-    padding: 2rem;
-    
+    padding-top: 2rem;
+
+}
+.aw:not(:first-child){
+    margin-left: 1.5rem;
 }
