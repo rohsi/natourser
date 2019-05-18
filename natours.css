@@ -21,9 +21,12 @@ body {
 .onepage {
     position: relative;
     background-image: linear-gradient(to bottom, rgb(190, 17, 191) 0%, rgb(161, 184, 30) 100%),url("img/logo-white.png");
+    height: 95vh;
+    width: 100%;
 }
 
 .logo1 {
+
     position: absolute;
     top: 4rem;
     left: 4rem;
